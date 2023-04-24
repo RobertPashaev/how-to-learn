@@ -1,0 +1,104 @@
+/* Общие стили */
+@import url(../styles/normalize.css);
+@import url(../blocks/page/page.css);
+
+/* header */
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__link.css);
+@import url(../blocks/logo/__place__header.css);
+@import url(../blocks/header/__main-illustration.css);
+@import url(../blocks/header/__square-pic.css);
+@import url(../blocks/header/__subtitle.css);
+@import url(../blocks/header/__title.css);
+@import url(../blocks/logo/logo.css);
+
+/* logo */
+@import url(../blocks/logo/__place_footer.css);
+
+/* description */
+@import url(../blocks/description/__two-columns/__brief.css);
+@import url(../blocks/description/__two-columns/__main-text.css);
+@import url(../blocks/description/__two-columns/__paragraph.css);
+@import url(../blocks/description/__two-columns/__span-accent.css);
+@import url(../blocks/description/__two-columns/two-columns.css);
+@import url(../blocks/description/description.css);
+
+/* techniques */
+@import url(../blocks/techniques/techniques.css);
+@import url(../blocks/techniques/cards/cards.css);
+@import url(../blocks/techniques/cards/__item.css);
+@import url(../blocks/techniques/cards/__image.css);
+@import url(../blocks/techniques/cards/__description.css);
+@import url(../blocks/techniques/cards/__title.css);
+@import url(../blocks/techniques/cards/__subtitle.css);
+
+/* video */
+@import url(../blocks/video/video.css);
+@import url(../blocks/video/__subtitle.css);
+@import url(../blocks/video/__title.css);
+@import url(../blocks/video/__iframes.css);
+
+/* oakley */
+@import url(../blocks/oakley/__two-columns/oakley__two-columns.css);
+@import url(../blocks/oakley/oakley.css);
+
+/* digits */
+@import url(../blocks/digits/digits.css);
+@import url(../blocks/digits/__subtitle/digits__subtitle.css);
+@import url(../blocks/digits/__title/digits__title.css);
+@import url(../blocks/table/__heading.css);
+@import url(../blocks/table/__text.css);
+@import url(../blocks/table/__cell.css);
+@import url(../blocks/table/table.css);
+
+/* faynman */
+@import url(../blocks/faynman/__link.css);
+@import url(../blocks/faynman/__photo.css);
+@import url(../blocks/faynman/__subtitle.css);
+@import url(../blocks/faynman/__subtitle.css);
+@import url(../blocks/faynman/__title.css);
+@import url(../blocks/faynman/faynman.css);
+
+/* khan */
+@import url(../blocks/khan/khan.css);
+@import url(../blocks/khan/__author.css);
+@import url(../blocks/khan/__book-container.css);
+@import url(../blocks/khan/__book-pic.css);
+@import url(../blocks/khan/__buy-link.css);
+@import url(../blocks/khan/__container.css);
+@import url(../blocks/khan/__quote-author-subline.css);
+@import url(../blocks/khan/__quote-author.css);
+@import url(../blocks/khan/__quote.css);
+@import url(../blocks/khan/__title.css);
+
+/* kaufman */
+@import url(../blocks/kaufman/__rotation/kaufman__rotation.css);
+@import url(../blocks/kaufman/section-title_theme_dark/section-title_theme_dark.css);
+@import url(../blocks/kaufman/subtitle_theme_dark.css/subtitle_theme_dark.css);
+@import url(../blocks/kaufman/kaufman__triangle.css);
+@import url(../blocks/kaufman/kaufman.css);
+@import url(../blocks/kaufman/);
+
+/* table */
+
+@import url(../blocks/table/__cell_theme_dark.css);
+
+/* resourses */
+@import url(../blocks/resources/resourses.css);
+@import url(../blocks/resources/__link.css);
+@import url(../blocks/resources/__subtitle.css);
+@import url(../blocks/resources/__title.css);
+@import url(../blocks/resources/__logo-zone/__logo.css);
+@import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
+
+/* footer */
+@import url(../blocks/footer/__author.css);
+@import url(../blocks/footer/__column-heading.css);
+@import url(../blocks/footer/__column-link.css);
+@import url(../blocks/footer/__column-links.css);
+@import url(../blocks/footer/__column_content_copyright.css);
+@import url(../blocks/footer/__column_content_info.css);
+@import url(../blocks/footer/__column_content_social.css);
+@import url(../blocks/footer/__social-icon.css);
+@import url(../blocks/footer/_columns.css);
+@import url(../blocks/footer/footer.css);
