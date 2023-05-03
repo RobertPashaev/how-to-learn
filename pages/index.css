@@ -16,11 +16,11 @@
 @import url(../blocks/logo/__place_footer.css);
 
 /* description */
-@import url(../blocks/description/__two-columns/__brief.css);
-@import url(../blocks/description/__two-columns/__main-text.css);
-@import url(../blocks/description/__two-columns/__paragraph.css);
-@import url(../blocks/description/__two-columns/__span-accent.css);
-@import url(../blocks/description/__two-columns/two-columns.css);
+@import url(../blocks/two-columns/__brief.css);
+@import url(../blocks/two-columns/__main-text.css);
+@import url(../blocks/two-columns/__paragraph.css);
+@import url(../blocks/two-columns/__span-accent.css);
+@import url(../blocks/two-columns/two-columns.css);
 @import url(../blocks/description/description.css);
 
 /* techniques */
@@ -30,7 +30,7 @@
 @import url(../blocks/techniques/cards/__image.css);
 @import url(../blocks/techniques/cards/__description.css);
 @import url(../blocks/techniques/cards/__title.css);
-@import url(../blocks/techniques/cards/__subtitle.css);
+@import url(../blocks/techniques/techniques__subtitle.css);
 
 /* video */
 @import url(../blocks/video/video.css);
@@ -52,12 +52,12 @@
 @import url(../blocks/table/table.css);
 
 /* faynman */
-@import url(../blocks/faynman/__link.css);
-@import url(../blocks/faynman/__photo.css);
-@import url(../blocks/faynman/__subtitle.css);
-@import url(../blocks/faynman/__subtitle.css);
-@import url(../blocks/faynman/__title.css);
-@import url(../blocks/faynman/faynman.css);
+@import url(../blocks/feynman/__link.css);
+@import url(../blocks/feynman/__photo.css);
+@import url(../blocks/feynman/__subtitle.css);
+@import url(../blocks/feynman/__subtitle.css);
+@import url(../blocks/feynman/__title.css);
+@import url(../blocks/feynman/feynman.css);
 
 /* khan */
 @import url(../blocks/khan/khan.css);
